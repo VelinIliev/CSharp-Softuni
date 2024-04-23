@@ -1,0 +1,1 @@
+﻿Console.ReadLine().Split().ToList().ForEach(x=> Console.WriteLine($"Sir {x}"));
